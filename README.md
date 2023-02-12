@@ -57,10 +57,3 @@ Special thanks to rclone and qbittorrent-nox
 * Added anti-ban for heroku.
 * Added a hidden config var `remote` to manually override or choose your desired remote name from config.
 * Upgraded to qBittorrent-nox `release-4.4.5_v2.0.7`
-
-## What's Removed
-
-* SELFPING
-* PINGDOMAIN
-
-
