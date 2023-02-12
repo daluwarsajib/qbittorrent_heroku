@@ -9,7 +9,6 @@ Special thanks to rclone and qbittorrent-nox
 ## How To Deploy ?
 ### Step 1
 * Star my repository
-* Create a [Heroku](https://dashboard.heroku.com/login) Free account
 * Log in to Heroku in any browser
 * Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/daluwarsajib/qbittorrent_heroku) and deploy app
 ### Step 2 (setting Config Vars)
