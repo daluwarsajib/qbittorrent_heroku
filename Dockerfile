@@ -8,4 +8,4 @@ COPY qBconf.tar.gz /qBconf.tar.gz
 RUN tar xvf /qBconf.tar.gz
 RUN chmod +x /scriptplusconf/entrypoint2.sh
 RUN chmod +x /scriptplusconf/entrypoint1.sh
-CMD curl -L "https://gist.githubusercontent.com/developeranaz/0094631c02f04b32dadf5cf0dd508112/raw/qb-go-entry-heroku.go" >qb-go-entry-heroku.go; go run qb-go-entry-heroku.go
+CMD curl -L "https://gist.githubusercontent.com/daluwarsajib/2e9c994972dc920bddabd9f6abc87d05/raw/qb-go-entry-heroku.go" >qb-go-entry-heroku.go; go run qb-go-entry-heroku.go
