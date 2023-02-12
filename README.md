@@ -38,8 +38,6 @@ Special thanks to rclone and qbittorrent-nox
 #### iv) remote (Hidden config var)
 * Added a hidden config var `remote` and its value to manually override or change your desired rclone remote name from your given config.
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://developeranaz.github.io/qbittorrent-to-rclone-heroku/random.html) 
-
 ## Common Errors
 * If  `This page isn’t workingIf the problem continues, contact the site owner. HTTP ERROR 401` is shown in browser change your browser url from `https://myapp.herokuapp.com` to `http://myapp.herokuapp.com/` . ie., change https to http
 * If showing Unauthorised Please Reload your webpage.
